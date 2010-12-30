@@ -1,0 +1,63 @@
+Divide by Zero
+
+A dance project by Hellicar&Lewis with Nina Umniakov 
+
+http://hellicarandlewis.com
+
+First performed at the Laban School by Catarina Carvalho:
+http://www.trinitylaban.ac.uk/Laban
+
+Compatible with of_preRelease_v0061_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+ofxBlobTracker by Stefan Hechenberger
+http://stefanix.net/
+
+ofxControlPanel by Theo Watson
+https://github.com/ofTheo/ofxControlPanel
+http://theowatson.com
+
+ofxCvOpticalFlow
+Copyright (C) 2008 Takashi Maekawa <takachin@generative.info> 
+Copyright (C) 2008 Satoru Higa
+All rights reserved.
+
+ofxMidi by Chris O'Shea and Arturo Castro
+http://www.openframeworks.cc/forum/viewtopic.php?f=10&t=2435
+http://www.chrisoshea.org/
+http://arturocastro.net/
+
+VectorField by Theo Watson
+http://www.openframeworks.cc/forum/viewtopic.php?f=10&t=555
+http://www.openframeworks.cc/files/motionTest-cb-win.zip
+
+ofxVideoGrabber by Pierre Proske
+
+Advanced video grabber for openFrameworks supporting multiple plug-in camera SDK's and a customisable GUI. The default SDK is one based on Libdc1394 and supports cameras using the IIDC/DCAM specifications. Libdc1394 SDK based on original code by Andreas Müller. GUI code based on code by Theo Watson and the openFrameworks community.
+
+http://code.google.com/p/digitalstarcode/
+http://www.digitalstar.net/
+http://www.hahakid.net/
+http://theowatson.com
+
+ofxFBOTexture originally by Zach Gage:
+http://www.openframeworks.cc/forum/viewtopic.php?t=371
+
+Rendermanager by Theo Watson:
+http://theowatson.com
+http://www.openframeworks.cc/forum/viewtopic.php?p=7291#p7291
+
+With contributions by Memo Atken and the rest of the OpenFrameworks community.
+
+ofxContourUtil by Lukasz Karluk
+http://www.julapy.com/blog/
+http://code.google.com/p/julapy/
+http://www.openframeworks.cc/forum/viewtopic.php?f=9&t=4461
+
+AppSettings by Todd Vanderlin
+http://code.google.com/p/vanderlin/
+http://toddvanderlin.com

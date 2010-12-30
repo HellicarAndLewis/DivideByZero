@@ -1,0 +1,137 @@
+// !$*UTF8*$!
+{
+	5D5A18E811AF2DAD00B53B75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 67CB0CD91038DAC000A4C306 /* ofxVideoGrabberSettings.h */;
+		name = "ofxVideoGrabberSettings.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 0;
+	};
+	5D5A18E911AF2DAD00B53B75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 67CB0CD81038DAC000A4C306 /* ofxIIDCSettings.cpp */;
+		name = "ofxIIDCSettings.cpp: 11";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 1353;
+		vrLoc = 1262;
+	};
+	5D5A18EA11AF2DAD00B53B75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 67CB0CD81038DAC000A4C306 /* ofxIIDCSettings.cpp */;
+		name = "ofxIIDCSettings.cpp: 11";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 1353;
+		vrLoc = 1262;
+	};
+	5D6A42F711AD71DB00D5D9FF /* openFrameworks */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = openFrameworks;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5D6A431911AD71E100D5D9FF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5D6A431A11AD71E100D5D9FF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	67CB0CD81038DAC000A4C306 /* ofxIIDCSettings.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 3068}}";
+			sepNavSelRange = "{277, 0}";
+			sepNavVisRange = "{1262, 1353}";
+		};
+	};
+	67CB0CD91038DAC000A4C306 /* ofxVideoGrabberSettings.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {537, 455}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 532}";
+		};
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5D6A42F711AD71DB00D5D9FF /* openFrameworks */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* openFrameworks */;
+		codeSenseManager = 5D6A431A11AD71E100D5D9FF /* Code sense */;
+		executables = (
+			5D6A42F711AD71DB00D5D9FF /* openFrameworks */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296693092;
+			PBXWorkspaceStateSaveDate = 296693092;
+		};
+		perUserProjectItems = {
+			5D5A18E811AF2DAD00B53B75 /* PBXTextBookmark */ = 5D5A18E811AF2DAD00B53B75 /* PBXTextBookmark */;
+			5D5A18E911AF2DAD00B53B75 /* PBXTextBookmark */ = 5D5A18E911AF2DAD00B53B75 /* PBXTextBookmark */;
+			5D5A18EA11AF2DAD00B53B75 /* PBXTextBookmark */ = 5D5A18EA11AF2DAD00B53B75 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5D6A431911AD71E100D5D9FF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* openFrameworks */ = {
+		activeExec = 0;
+		executables = (
+			5D6A42F711AD71DB00D5D9FF /* openFrameworks */,
+		);
+	};
+}
